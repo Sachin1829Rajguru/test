@@ -1,0 +1,10 @@
+import express from 'express';
+import { checkavailabilityapi, createbooking, gethotelbookings, getuserbookings, stripepayment } from '../controllers/bookingcontroller.js';
+import { protect } from '../middlewares/auth.js';
+const bookingrouter = express.Router();
+bookingrouter.post('/check-availability', checkavailabilityapi);
+bookingrouter.post('/book', protect, createbooking);
+bookingrouter.get('/user', protect, getuserbookings);
+bookingrouter.get('/hotel', protect, gethotelbookings);
+bookingrouter.post('/stripe-payment', protect, stripepayment);
+export default bookingrouter;  
