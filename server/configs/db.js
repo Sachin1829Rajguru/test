@@ -2,6 +2,7 @@ import mongoose from "mongoose";
 
 const connectDB = async () => {
     try {
+        mongoose.set('bufferCommands', false);
         mongoose.connection.on("connected", () =>
             console.log("MongoDB connected.")
         );
