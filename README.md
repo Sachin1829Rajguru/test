@@ -1,4 +1,4 @@
-# 🏨 QuickStay
+# QuickStay
 
 **Full-Stack Hotel Booking Platform (Web App)**  
 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Stripe · Clerk · Tailwind CSS · Cloudinary · Nodemailer
