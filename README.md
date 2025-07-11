@@ -5,26 +5,6 @@
 
 ---
 
-## 📌 Problem Statement
-
-**Background:**  
-Traditional hotel booking platforms often come with clunky interfaces, inconsistent user experiences, and poor integration between front-end, backend, and third-party services like authentication or payments. Users face delays, confusing checkout processes, and lack of personalization. On the admin side, hotel owners often lack control over media uploads, customer management, and booking insights.
-
-### Common Issues in Existing Systems:
-
-- Fragmented user experience due to disconnected frontend/backend systems.
-- Lack of real-time availability and seamless booking flow.
-- Poor integration with secure payment gateways.
-- Limited or outdated UI, especially on mobile devices.
-- Complicated authentication and session management.
-
----
-
-## 🎯 Objective
-
-To develop a **modern, end-to-end hotel booking platform** that provides a seamless, responsive user experience with powerful features such as secure authentication, real-time payments, automated notifications, and intuitive UI.
-
----
 
 ## 🧾 Summary
 
