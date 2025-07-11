@@ -9,13 +9,10 @@
 
 **QuickStay** is a full-featured hotel booking web application built for seamless travel planning and effortless accommodation management. It provides users with an intuitive interface to discover destinations, check availability, explore visuals of listed properties, and complete bookings securely with integrated payments. Developed using the MERN stack, the platform prioritizes fast performance, modern aesthetics, and a smooth, user-centered experience across devices.
 
-This application solves the traditional friction points by:
+The platform not only serves travelers but also empowers property owners. Any registered user can list their own hotels with complete details—such as amenities, pricing, images, and availability—and become a verified host. Owners can manage their listings, monitor real-time bookings, and view detailed room-wise reservations directly through a dedicated dashboard.
 
-- Integrating secure and modern **authentication with Clerk**.
-- Handling **real-time payments using Stripe**.
-- Automating transactional communications via **Nodemailer**.
-- Managing media uploads through **Cloudinary** for efficient storage and delivery.
-- Leveraging **Tailwind CSS + PrebuiltUI** to deliver a consistent and responsive design across all devices.
+Users receive real-time booking confirmations via email immediately after successful reservations, enhancing trust and ensuring smooth communication throughout the process.
+
 
 ---
 
