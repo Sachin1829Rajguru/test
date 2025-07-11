@@ -5,7 +5,6 @@
 
 ---
 
-
 ## 🧾 Summary
 
 **QuickStay** is a feature-rich hotel booking web app designed to replicate real-world travel platforms like Booking.com or Airbnb. It offers users an elegant and intuitive way to explore destinations, select dates, view hotel images, and book securely using Stripe. Built using the MERN stack, it emphasizes performance, scalability, and user-centric design.
@@ -49,9 +48,9 @@ This application solves the traditional friction points by:
 
 ## 👨‍💻 Project Created & Maintained By
 
-**Sachin Rajguru**
+**Sachin Rajguru**  
+<br>
 LinkedIn: [linkedin.com/in/sachinrajguru](https://linkedin.com/in/sachinrajguru) *(replace with actual)*  
 GitHub: [github.com/sdccrajguru](https://github.com/sdccrajguru)
 
 ---
-
