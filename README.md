@@ -49,7 +49,7 @@ This application solves the traditional friction points by:
 ## 👨‍💻 Project Created & Maintained By
 
 **Sachin Rajguru**  
-LinkedIn: [linkedin.com/in/sachinrajguru](https://linkedin.com/in/sachinrajguru) *(replace with actual)*  
+LinkedIn: [linkedin.com/in/sachinrajguru](https://linkedin.com/in/sachinrajguru)  
 GitHub: [github.com/sdccrajguru](https://github.com/sdccrajguru)
 
 ---
